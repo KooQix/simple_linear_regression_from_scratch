@@ -1,4 +1,4 @@
-# Simple Linear Regression from scratch
+# Simple Machine Learning models from scratch
 
 ## Requirements
 
@@ -6,6 +6,14 @@
 -   matplotlib
 -   numpy
 
-## Data
+## Linear Regression
 
-Diabetes from sklearn.datasets
+Data: Diabetes from sklearn.datasets
+
+## Logistic Regression (Binary Classifier)
+
+Data: Iris from sklearn.datasets, using 2 classes
+
+## Naive Bayes Classifier
+
+Data: Iris from sklearn.datasets
